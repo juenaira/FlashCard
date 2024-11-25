@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Investimentos',
+    'O que é um investimento?',
+    'Um investimento é a alocação de recursos, como dinheiro, com a expectativa de gerar um retorno financeiro ou aumentar o patrimônio ao longo do tempo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Investimentos',
+    'Quais são os tipos mais comuns de investimentos?',
+    'Os tipos mais comuns incluem ações, títulos, fundos imobiliários, fundos de investimento, CDBs (Certificados de Depósito Bancário) e moedas digitais.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Investimentos',
+    'O que é diversificação de investimentos?',
+    'É a estratégia de distribuir recursos entre diferentes tipos de investimentos para reduzir riscos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Investimentos',
+    'Qual a diferença entre renda fixa e renda variável?',
+    'Renda fixa refere-se a investimentos com retornos previsíveis, enquanto a renda variável envolve ativos cujos preços flutuam e não têm garantias de retorno.'
 )
